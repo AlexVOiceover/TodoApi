@@ -44,3 +44,4 @@
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/TodoAPi/bin/Debug/net8.0/NSwag.Generation.AspNetCore.dll
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/TodoAPi/bin/Debug/net8.0/YamlDotNet.dll
 /home/alex/FAC/FAC_Apprenticeship/W79/workshops/TodoAPi/obj/Debug/net8.0/TodoAPi.MvcApplicationPartsAssemblyInfo.cs
+/home/alex/FAC/FAC_Apprenticeship/W79/workshops/TodoAPi/obj/Debug/net8.0/TodoAPi.sourcelink.json
